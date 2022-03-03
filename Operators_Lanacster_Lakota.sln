@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators_Lanacster_Lakota", "Operators_Lanacster_Lakota\Operators_Lanacster_Lakota.csproj", "{E93976B9-C0CD-4966-976A-B4F5494F335E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93976B9-C0CD-4966-976A-B4F5494F335E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93976B9-C0CD-4966-976A-B4F5494F335E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93976B9-C0CD-4966-976A-B4F5494F335E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93976B9-C0CD-4966-976A-B4F5494F335E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC55970-6B51-46BF-892E-2877450FB036}
+	EndGlobalSection
+EndGlobal
